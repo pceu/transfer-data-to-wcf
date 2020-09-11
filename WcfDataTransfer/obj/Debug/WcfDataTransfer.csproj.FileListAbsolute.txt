@@ -1,10 +1,9 @@
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\bin\Debug\WcfDataTransfer.exe.config
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\bin\Debug\WcfDataTransfer.exe
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\bin\Debug\WcfDataTransfer.pdb
-C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.csprojAssemblyReference.cache
+C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.Form1.resources
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.Properties.Resources.resources
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.csproj.GenerateResource.cache
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.csproj.CoreCompileInputs.cache
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.exe
 C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.pdb
-C:\Users\Jo\Desktop\Practical\week8redo\transfer-data-to-wcf\WcfDataTransfer\obj\Debug\WcfDataTransfer.Form1.resources
